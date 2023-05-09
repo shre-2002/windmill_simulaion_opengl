@@ -690,13 +690,13 @@ void display(){
     glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24, string2[i]);
     }
     glColor3f(1.0,1.0,1.0);
-    char string3[50] = "Shreenidhi Rao (4NM20CS173)";
+    char string3[50] = "Name1";
     glRasterPos2f(30,60);
     for ( i = 0; i <strlen(string3); i++) {
     glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24, string3[i]);
     }
     glColor3f(1.0,1.0,1.0);
-    char string4[50] = "Shreya S Shetty (4NM20CS175)";
+    char string4[50] = "Name2";
     glRasterPos2f(30,55);
     for ( i = 0; i <strlen(string4); i++) {
     glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24, string4[i]);
@@ -708,7 +708,7 @@ void display(){
     glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24, string5[i]);
     }
     glColor3f(1.0,1.0,1.0);
-    char string6[50] = "Guided by : Mr. Puneeth R P";
+    char string6[50] = "Guided by : Faculty name";
     glRasterPos2f(25,35);
     for ( i = 0; i <strlen(string6); i++) {
     glutBitmapCharacter(GLUT_BITMAP_TIMES_ROMAN_24, string6[i]);
