@@ -1,1 +1,1 @@
-# windmill_simulaion_opengl
+# windmill_simulation_opengl
